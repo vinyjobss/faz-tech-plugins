@@ -1,0 +1,14 @@
+{
+  "name": "coordenador-ti",
+  "description": "Coordenador de Operações de TI da Faz Tech: transforma demandas brutas em tarefas estruturadas, delegadas e priorizadas no Todoist via MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcus Alcantara",
+    "email": "marcus.alcantara@fazconsulting.us"
+  },
+  "homepage": "https://github.com/vinyjobss/faz-tech-plugins/tree/main/plugins/coordenador-ti",
+  "repository": "https://github.com/vinyjobss/faz-tech-plugins",
+  "license": "MIT",
+  "agents": ["agents/"],
+  "mcpServers": ".mcp.json"
+}

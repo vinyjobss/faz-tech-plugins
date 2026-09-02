@@ -1,0 +1,19 @@
+{
+  "name": "faz-tech-plugins",
+  "description": "Plugins internos da Faz Tech para Claude Code",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Marcus Alcantara",
+    "email": "marcus.alcantara@fazconsulting.us",
+    "url": "https://github.com/vinyjobss/faz-tech-plugins"
+  },
+  "plugins": [
+    {
+      "name": "coordenador-ti",
+      "displayName": "Coordenador de Operações de TI",
+      "source": "./plugins/coordenador-ti",
+      "description": "Transforma demandas de TI (incidentes, projetos, ideias) em tarefas estruturadas, delegadas e priorizadas no Todoist.",
+      "version": "1.0.0"
+    }
+  ]
+}
